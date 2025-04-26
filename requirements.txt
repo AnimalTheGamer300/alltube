@@ -1,2 +1,2 @@
-python-3.8.12
+python-3.8.20
 ffmpeg-7.1.1
